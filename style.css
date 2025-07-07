@@ -1,0 +1,155 @@
+* {
+    margin: 0 auto;
+    color: #3c3c6f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #fdf2fd, #e6f0ff);
+}
+
+
+.navbar {
+    background-color: white;
+    padding-left: 30px !important;
+
+}
+
+
+.navbar .container a {
+    color: #3c3c6f;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ .navbar-brand {
+    font-size: x-large;
+}
+
+.navbar-nav {
+    position: absolute;
+    right: 7%;
+    gap: 30px;
+    font-size: large;
+
+}
+
+.contact_form {
+    width: 700px;
+}
+
+.navbar-brand {
+    color: #4a4a8a !important;
+
+}
+
+.nav-link {
+    color: #4a4a8a !important;
+
+}
+
+.nav-link:hover {
+    color: #7b2cbf !important;
+}
+
+
+.skills-section {
+    margin: 20px;
+
+}
+
+
+
+.card-img-top {
+    height: 330px;
+    object-fit: cover;
+    width: 100%;
+
+}
+
+.card {
+    min-height: 100%;
+}
+
+.page-heading {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #503eb4;
+    margin: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contact-section {
+    display: flex;
+    font-size: larger;
+}
+
+.contact-img {
+    width: 40%;
+    height: auto;
+    margin: 0;
+}
+
+.custom-btn,
+.btn {
+    background-color: #503eb4 !important;
+    color: white !important;
+}
+
+.custom-btn:hover,
+.btn:hover {
+    background-color: #3c3c6f !important;
+}
+
+.about-box {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 7px 10px rgba(58, 29, 110, 0.2);
+    color: #333;
+    width: 900px;
+    padding: 50px;
+}
+
+
+.hero-section {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.row .text-area {
+    font-size: x-large;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #4a4a8a;
+}
+
+.hero-text {
+    font-size: 1.25rem;
+    color: #555;
+    margin-top: 15px;
+}
+
+.img-fluid{
+        outline:  20px solid white; }
+        
+.img-fluid1{
+    width:240px;
+    box-shadow: 0 30px 25px rgba(57, 42, 85, 0.4) !important;
+}
+
+.text-area {
+    padding-right: 30px;
+}
+
+.contact-info{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 25px;
+}
